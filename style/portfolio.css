@@ -94,10 +94,12 @@ main section{
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
+    margin-top: 130px;
 }
 .about-iteams{
     display: flex;
     justify-content: space-around;
+    margin-top: 30px;
 }
 .iteam-description{
     font-weight: bold;
